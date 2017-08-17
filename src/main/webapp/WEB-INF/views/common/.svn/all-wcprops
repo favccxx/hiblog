@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/favsoft/!svn/ver/2/favblog/trunk/src/main/webapp/WEB-INF/views/common
+END
+header.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/favsoft/!svn/ver/2/favblog/trunk/src/main/webapp/WEB-INF/views/common/header.jsp
+END
+commonInclude.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/favsoft/!svn/ver/2/favblog/trunk/src/main/webapp/WEB-INF/views/common/commonInclude.jsp
+END
+menu.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/favsoft/!svn/ver/23/favblog/trunk/src/main/webapp/WEB-INF/views/common/menu.jsp
+END
+menu_config.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/favsoft/!svn/ver/2/favblog/trunk/src/main/webapp/WEB-INF/views/common/menu_config.jsp
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/favsoft/!svn/ver/6/favblog/trunk/src/main/webapp/assets/plugins/ckeditor
+END
+CHANGES.md
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/favsoft/!svn/ver/6/favblog/trunk/src/main/webapp/assets/plugins/ckeditor/CHANGES.md
+END
+ckeditor.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/favsoft/!svn/ver/6/favblog/trunk/src/main/webapp/assets/plugins/ckeditor/ckeditor.js
+END
+LICENSE.md
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/favsoft/!svn/ver/6/favblog/trunk/src/main/webapp/assets/plugins/ckeditor/LICENSE.md
+END
+config.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/favsoft/!svn/ver/12/favblog/trunk/src/main/webapp/assets/plugins/ckeditor/config.js
+END
+styles.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/favsoft/!svn/ver/6/favblog/trunk/src/main/webapp/assets/plugins/ckeditor/styles.js
+END
+build-config.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/favsoft/!svn/ver/6/favblog/trunk/src/main/webapp/assets/plugins/ckeditor/build-config.js
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/favsoft/!svn/ver/6/favblog/trunk/src/main/webapp/assets/plugins/ckeditor/README.md
+END
+contents.css
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/favsoft/!svn/ver/6/favblog/trunk/src/main/webapp/assets/plugins/ckeditor/contents.css
+END

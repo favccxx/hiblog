@@ -8,13 +8,15 @@
 <title>博客管理</title>
 <link rel="stylesheet" href="<%=basePath %>assets/css/foundation.min.css">
 <link rel="stylesheet" href="<%=basePath %>assets/css/responsive-tables.css">
+<link rel="stylesheet" href="<%=basePath%>assets/css/foundation-icons.css">
 
 <script src="<%=basePath %>assets/js/jquery-2.1.4.min.js"></script>
 <script src="<%=basePath %>assets/js/responsive-tables.js"></script>
 </head>
 
   <body>
-    
+     <%@ include file="../common/blackbar.jsp"%>
+     
     <div class="off-canvas-wrapper">
       <div class="off-canvas-wrapper-inner" data-off-canvas-wrapper>
 
@@ -44,7 +46,7 @@
           </div>
           <div class="callout primary" style="background-color:#ffffff;">
             <div class="row column">
-              <h1>我有一个博客，叫嗨客的世界。</h1>
+              <h3>我有一个博客，叫嗨客的世界。</h3>
               <p class="lead">我在2016年03月24日建立了它，截止到目前，我发表了244篇文章，有307条评论，有415,426人访问过它。我还将继续记录着“与嗨客共享精彩”。</p>
             </div>
           </div>

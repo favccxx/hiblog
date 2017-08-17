@@ -14,24 +14,14 @@
 </head>
 
   <body>
+    <%@ include file="../common/blackbar.jsp"%>
     
     <div class="off-canvas-wrapper">
       <div class="off-canvas-wrapper-inner" data-off-canvas-wrapper>
 
         <div class="off-canvas position-left reveal-for-large" id="my-info" data-off-canvas data-position="left">
           <div class="row column" style="text-align:center;">
-            <br>
-            <img class="thumbnail" src="<%=basePath %>assets\images\theme\my.jpg" style="height:130px;text-align:center;">
-            <h5>嗨客管理</h5>
-           
-          	<p>
-          		<a class="button expanded" href="#">发表博文</a>
-				<a class="button expanded" href="#">管理博文</a>
-				<a class="button expanded" href="#">相册管理</a>
-				<a class="button expanded" href="#">评论管理</a>
-				<a class="button expanded" href="#">用户管理</a>
-				<a class="button small expanded" href="#">帮助中心</a>
-          	</p>
+          	<%@ include file="../common/nav.jsp"%>
           </div>
         </div>
 

@@ -1,14 +1,27 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
 <%@ include file="common/commonInclude.jsp"%>    
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE html>
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Insert title here</title>
-<script type="text/javascript" src="<%=basePath%>assets/plugins/ckeditor/ckeditor.js"></script>
+<title>博客管理</title>
+<link rel="stylesheet" href="<%=basePath %>assets/css/foundation.min.css">
+<link rel="stylesheet" href="<%=basePath %>assets/css/responsive-tables.css">
+<link rel="stylesheet" href="<%=basePath%>assets/css/foundation-icons.css">
+<script src="<%=basePath %>assets/js/jquery-2.1.4.min.js"></script>
+<script src="<%=basePath %>assets/js/responsive-tables.js"></script>
 </head>
 <body>
+
+<div class="row">
+	<div class="large-8 columns">
+	
+	</div>
+</div>
+
+
+
 <div class="addBlog">
 		<div class="addBlog_area">
 			<div class="addBlog_header">

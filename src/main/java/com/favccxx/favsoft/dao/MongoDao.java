@@ -20,6 +20,7 @@ public abstract class MongoDao<T> {
 	 * @param t
 	 */
 	public void save(T t) {
+		Query query = new Query();		
 		this.mongoTemplate.save(t);
 	}
 

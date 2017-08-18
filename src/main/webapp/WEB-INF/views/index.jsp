@@ -52,11 +52,11 @@
   <div class="top-bar" id="main-menu">
     <ul class="menu vertical medium-horizontal expanded medium-text-center" data-responsive-menu="drilldown medium-dropdown">
       <li class="has-submenu"><a href="#">首页</a>
-        <ul class="submenu menu vertical" data-submenu>
+       <!--  <ul class="submenu menu vertical" data-submenu>
           <li><a href="#">One</a></li>
           <li><a href="#">Two</a></li>
           <li><a href="#">Three</a></li>
-        </ul>
+        </ul> -->
       </li>
       <li class="has-submenu"><a href="blog"  onclick="goBlog('${sysUser.userName }')">博客</a>
         <!-- <ul class="submenu menu vertical" data-submenu>
@@ -461,7 +461,7 @@
 		}
 		
 		function goAdmin(){
-			window.open("backend/blogadmin", "_self");
+			window.open("backend/userlist", "_self");
 		}
 	</script>
 </body>
